@@ -1,0 +1,3 @@
+[submodule "msp430-gcc-support-files"]
+	path = msp430-gcc-support-files
+	url = https://github.com/carloscn/msp430-gcc-support-files.git
