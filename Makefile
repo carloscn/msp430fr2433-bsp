@@ -1,7 +1,7 @@
 DEVICE       = MSP430FR2433
 PATH_SRC     = src
 HAL_SRC      = $(PATH_SRC)/HAL
-PATH_DRIVER  = driverlib/MSP430FR2xx_4xx
+PATH_DRIVER  = msp430_driverlib/driverlib/MSP430FR2xx_4xx
 PATH_BUILD   = build/target
 PATH_OBJS    = build/target/objects
 BUILD_PATHS  = $(PATH_BUILD) $(PATH_OBJS)
